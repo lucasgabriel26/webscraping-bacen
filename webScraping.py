@@ -7,6 +7,7 @@ import unicodedata
 import shutil
 from datetime import datetime
 
+# teste commit 2 via PyCharm
 
 def renomear_arquivos_extraidos(dest_dir, ano, mes):
     """
